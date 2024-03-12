@@ -30,6 +30,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### A little more about me...
+
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
@@ -52,6 +53,16 @@ const anmol = {
 
 ### Latest Posts
 
+* [Video: Implementing caching in Apigee](https://www.youtube.com/watch?v=8YuThVK5p34&list=PLIivdWyY5sqJCRHhuNgWXhISaBkGINFGp)
+* [Blog: Improving API Performance Using Caching with Apigee](https://www.googlecloudcommunity.com/gc/Cloud-Product-Articles/Improving-API-Performance-Using-Caching-with-Apigee/ta-p/602826)
+* [Video: Navigating .NET Containers on AWS](https://www.youtube.com/watch?v=AILmiVrkxRA)
+* [Blog: Modernizing ASP.NET Web Forms applications to Blazor using Porting Assistant for .NET](https://aws.amazon.com/blogs/modernizing-with-aws/modernizing-asp-net-web-forms-to-blazor/)
+* [Video: AWS re:Invent 2021 - Accelerate .NET 6 performance with Arm64 on AWS Graviton2](https://www.youtube.com/watch?v=iMlyZI9NhFw)
+* [Blog: EC2 Image Builder and Hands-free Hardening of Windows Images for AWS Elastic Beanstalk](https://aws.amazon.com/blogs/devops/ec2-image-builder-for-windows-on-aws-elastic-beanstalk/)
+* [Blog: Dive into the AWS SDK for .NET’s Runtime Pipeline and Client Configuration](https://aws.amazon.com/blogs/developer/dive-into-the-aws-sdk-for-dotnet-runtime-pipeline/)
+* [Blog: Developing on Amazon Linux 2 using Windows](https://aws.amazon.com/blogs/developer/developing-on-amazon-linux-2-using-windows/)
+* [Blog: Automating shadow copies configuration on Amazon FSx for Windows File Server](https://aws.amazon.com/blogs/storage/enabling-microsoft-shadow-copies-with-amazon-fsx-for-windows-file-server/)
+* [Blog: Automating creation of a FedRAMP Integrated Inventory Workbook](https://aws.amazon.com/blogs/publicsector/automating-creation-fedramp-integrated-inventory-workbook/)
 <!--
 **csantos/csantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋
