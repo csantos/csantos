@@ -15,7 +15,7 @@
 ![.NET](https://img.shields.io/badge/-a?style=flat&logo=dotnet&color=purple)
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-C--Sharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
