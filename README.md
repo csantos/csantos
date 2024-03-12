@@ -32,7 +32,7 @@
 ### A little more about me...
 
 ```javascript
-const anmol = {
+let csantos = {
     pronouns: "He" | "Him",
     code: [".NET", "Javascript", "Python", "Go"],
     askMeAbout: ["architect", "app dev", "cloud", "tech"],
