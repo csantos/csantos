@@ -1,8 +1,60 @@
-### Hi there 👋
+### Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Carlos Santos ![](https://komarev.com/ghpvc/?username=csantos&style=for-the-badge&abbreviated=true)
+
+#### Where to find me
+
+[![Linkedin: santoscarlosr](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santoscarlosr/)](https://www.linkedin.com/in/santoscarlosr/)
+[![Mastodon: csantos](https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white&link=https://fosstodon.org/@csantos)](https://fosstodon.org/@csantos)
+[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1225047?color=orange&label=Stack%20Overflow&logo=stackoverflow&style=for-the-badge&link=https://stackoverflow.com/users/1225047/carlos)](https://stackoverflow.com/users/1225047/carlos)
+[![GitHub followers](https://img.shields.io/github/followers/csantos?label=Follow&style=social&link=https://github.com/csantos)](https://github.com/csantos)
+
+#### Tech Stack
+
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-a?style=flat&logo=amazonaws&color=black)
+![Azure](https://img.shields.io/badge/-Azure-a?style=flat&logo=microsoftazure&color=black)
+![.NET](https://img.shields.io/badge/-a?style=flat&logo=dotnet&color=purple)
+![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ffd343?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C--Sharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-gray?style=flat&logo=gitlab)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### A little more about me...
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: [".NET", "Javascript", "Python", "Go"],
+    askMeAbout: ["architect", "app dev", "cloud", "tech"],
+    technologies: {
+        backEnd: {
+            js: [".NET", "Node", "Kubernetes"],
+        },
+        devOps: ["Azure", "GCP", "AWS", "GitHub", "Docker🐳"],
+        databases: ["MS SQL Server", "Postgres", "DynamoDB"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Distributed System Design", "Microservices", "SOA", "REST / Hypermedia", "", "Serverless Architecture", "Progressive web applications", "Single page applications", "TOGAF"],
+    design: ["AOP", "DDD", "OO", "CQRS", "Event Driven / Messaging"],
+    agile: ["Kanban, "Scrum", "SAFe", "XP"],
+    diagramming: ["UML", "ArchiMate"]
+};
+```
+
+### Latest Posts
 
 <!--
 **csantos/csantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +65,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Public Contributions
+
+<details>
+  <summary><b>✨ GitHub Stats</b></summary>
+  <br />
+![csantos' Stats](https://github-readme-stats.vercel.app/api?username=csantos&theme=vue-dark&show_icons=true&hide_border=true)
+![csantos' Streak](https://github-readme-streak-stats.herokuapp.com/?user=csantos&theme=vue-dark&hide_border=true)
+![csantos' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csantos&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![csantos' Activity](https://github-readme-activity-graph.vercel.app/graph?username=csantos&theme=react-dark&bg_color=20232a&hide_border=true)
+</details>
 -->
