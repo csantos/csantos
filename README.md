@@ -42,11 +42,11 @@ const anmol = {
         },
         devOps: ["Azure", "GCP", "AWS", "GitHub", "Docker🐳"],
         databases: ["MS SQL Server", "Postgres", "DynamoDB"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["ORMs", "TDD", "BDD", "IoC"]
     },
     architecture: ["Distributed System Design", "Microservices", "SOA", "REST / Hypermedia", "", "Serverless Architecture", "Progressive web applications", "Single page applications", "TOGAF"],
-    design: ["AOP", "DDD", "OO", "CQRS", "Event Driven / Messaging"],
-    agile: ["Kanban, "Scrum", "SAFe", "XP"],
+    design: ["AOP", "DDD", "OO", "CQRS", "SOLID", "Event Driven / Messaging"],
+    agile: ["Kanban", "Scrum", "SAFe", "XP"],
     diagramming: ["UML", "ArchiMate"]
 };
 ```
