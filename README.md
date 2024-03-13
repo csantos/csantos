@@ -13,9 +13,9 @@
 ---
 
 #### Clouds
-![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-a?style=for-the-badge&logo=amazonaws&color=black)
-![Azure](https://img.shields.io/badge/-Azure-a?style=for-the-badge&logo=microsoftazure&color=black)
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
 #### Frameworks / Languages
 
