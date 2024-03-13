@@ -9,27 +9,35 @@
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1225047?color=orange&label=Stack%20Overflow&logo=stackoverflow&style=for-the-badge&link=https://stackoverflow.com/users/1225047/carlos)](https://stackoverflow.com/users/1225047/carlos)
 [![GitHub followers](https://img.shields.io/github/followers/csantos?label=GitHub&labelcolor=red&style=for-the-badge&link=https://github.com/csantos&logo=github)](https://github.com/csantos)
 
-#### Tech Stack
+### Tech Stack
+---
 
-![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-a?style=flat&logo=amazonaws&color=black)
-![Azure](https://img.shields.io/badge/-Azure-a?style=flat&logo=microsoftazure&color=black)
-![.NET](https://img.shields.io/badge/-a?style=flat&logo=dotnet&color=purple)
-![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-ffd343?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops)
-![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-gray?style=flat&logo=gitlab)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+#### Clouds
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-a?style=for-the-badge&logo=amazonaws&color=black)
+![Azure](https://img.shields.io/badge/-Azure-a?style=for-the-badge&logo=microsoftazure&color=black)
+
+#### Frameworks / Languages
+
+![.NET](https://img.shields.io/badge/-a?style=for-the-badge&logo=dotnet&color=purple)
+![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ffd343?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+#### Everything Else
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-gray?style=for-the-badge&logo=gitlab)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### A little more about me...
 
@@ -54,6 +62,7 @@ let csantos = {
 ```
 
 ### Latest Posts
+---
 
 * [Video: Implementing caching in Apigee](https://www.youtube.com/watch?v=8YuThVK5p34&list=PLIivdWyY5sqJCRHhuNgWXhISaBkGINFGp)
 * [Blog: Improving API Performance Using Caching with Apigee](https://www.googlecloudcommunity.com/gc/Cloud-Product-Articles/Improving-API-Performance-Using-Caching-with-Apigee/ta-p/602826)
