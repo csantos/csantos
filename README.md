@@ -36,8 +36,11 @@
 ![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-gray?style=for-the-badge&logo=gitlab)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### A little more about me...
@@ -51,7 +54,7 @@ let csantos = {
         backEnd: {
             js: [".NET", "Node", "Kubernetes"],
         },
-        devOps: ["Azure", "GCP", "AWS", "GitHub", "Docker🐳"],
+        devOps: ["Azure", "AWS", "GCP", "GitHub", "Docker🐳"],
         databases: ["MS SQL Server", "Postgres", "DynamoDB"],
         misc: ["ORMs", "TDD", "BDD", "IoC"]
     },
