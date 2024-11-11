@@ -28,7 +28,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-#### Everything Else
+#### Everything Else l
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -68,6 +68,7 @@ let csantos = {
 ### Latest Posts
 ---
 
+* [Blog: YAHP — Yet Another HttpClient Post](https://medium.com/architects-notebook/yahp-yet-another-httpclient-post-53bd67748f8e)
 * [Video: Implementing caching in Apigee](https://www.youtube.com/watch?v=8YuThVK5p34&list=PLIivdWyY5sqJCRHhuNgWXhISaBkGINFGp)
 * [Blog: Improving API Performance Using Caching with Apigee](https://www.googlecloudcommunity.com/gc/Cloud-Product-Articles/Improving-API-Performance-Using-Caching-with-Apigee/ta-p/602826)
 * [Video: Navigating .NET Containers on AWS](https://www.youtube.com/watch?v=AILmiVrkxRA)
