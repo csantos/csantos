@@ -69,7 +69,8 @@ let csantos = {
 ### Latest Posts
 ---
 
-* [Blog: YAHP — Yet Another HttpClient Post](https://medium.com/architects-notebook/yahp-yet-another-httpclient-post-53bd67748f8e)
+* [Blog: Handling SIGTERM with .NET on Cloud Run](https://architectsnotebook.com/handling-sigterm-with-net-on-cloud-run-87cc1f44e4c8)
+* [Blog: YAHP — Yet Another HttpClient Post](https://architectsnotebook.com/yahp-yet-another-httpclient-post-53bd67748f8e)
 * [Video: Implementing caching in Apigee](https://www.youtube.com/watch?v=8YuThVK5p34&list=PLIivdWyY5sqJCRHhuNgWXhISaBkGINFGp)
 * [Blog: Improving API Performance Using Caching with Apigee](https://www.googlecloudcommunity.com/gc/Cloud-Product-Articles/Improving-API-Performance-Using-Caching-with-Apigee/ta-p/602826)
 * [Video: Navigating .NET Containers on AWS](https://www.youtube.com/watch?v=AILmiVrkxRA)
