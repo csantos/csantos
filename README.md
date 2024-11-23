@@ -5,6 +5,7 @@
 #### Where to find me
 
 [![Linkedin: santoscarlosr](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santoscarlosr/)](https://www.linkedin.com/in/santoscarlosr/)
+[![Bluesky: santoscarlosr](https://img.shields.io/badge/-bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&link=https://bsky.app/profile/santoscarlosr.bsky.social)](https://bsky.app/profile/santoscarlosr.bsky.social)
 [![Mastodon: csantos](https://img.shields.io/badge/-Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white&link=https://fosstodon.org/@csantos)](https://fosstodon.org/@csantos)
 [![Medium: santoscarlosr](https://img.shields.io/badge/-medium-gray?style=for-the-badge&logo=medium&logoColor=white&labelColor=black&link=https://medium.com/@santoscarlosr)](https://medium.com/@santoscarlosr)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1225047?color=orange&label=Stack%20Overflow&logo=stackoverflow&style=for-the-badge&link=https://stackoverflow.com/users/1225047/carlos)](https://stackoverflow.com/users/1225047/carlos)
