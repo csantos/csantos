@@ -10,6 +10,7 @@
 [![Medium: santoscarlosr](https://img.shields.io/badge/-medium-gray?style=for-the-badge&logo=medium&logoColor=white&labelColor=black&link=https://medium.com/@santoscarlosr)](https://medium.com/@santoscarlosr)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/1225047?color=orange&label=Stack%20Overflow&logo=stackoverflow&style=for-the-badge&link=https://stackoverflow.com/users/1225047/carlos)](https://stackoverflow.com/users/1225047/carlos)
 [![GitHub followers](https://img.shields.io/github/followers/csantos?label=GitHub&labelcolor=red&style=for-the-badge&link=https://github.com/csantos&logo=github)](https://github.com/csantos)
+[![Credly Profile](https://img.shields.io/badge/-Credly%20Profile-FF6B00?logo=credly&style=for-the-badge&logoColor=white&link=https://www.credly.com/users/santoscarlosr)](https://www.credly.com/users/santoscarlosr)
 
 ### Tech Stack
 ---
@@ -30,7 +31,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-#### Everything Else l
+#### Everything Else
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
@@ -44,6 +45,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Open API](https://img.shields.io/badge/-Open%20API-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ### A little more about me...
 
