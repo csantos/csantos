@@ -73,6 +73,7 @@ let csantos = {
 ### Latest Posts
 ---
 
+* [Video: How to Enable and Analyze Execution Logs in Cloud Logging for Application Integration](https://www.youtube.com/watch?v=omEccd7VjBEk) / [Accompanying Article](https://www.googlecloudcommunity.com/gc/Cloud-Product-Articles/How-to-Enable-and-Analyze-Execution-Logs-in-Cloud-Logging-for/ta-p/861258)
 * [Blog: Why All Organizations Need to Set up Google Cloud Identity](https://architectsnotebook.com/why-all-organizations-need-to-set-up-google-cloud-identity-18cbf8ed80f6)
 * [Blog: Handling SIGTERM with .NET on Cloud Run](https://architectsnotebook.com/handling-sigterm-with-net-on-cloud-run-87cc1f44e4c8)
 * [Blog: YAHP — Yet Another HttpClient Post](https://architectsnotebook.com/yahp-yet-another-httpclient-post-53bd67748f8e)
