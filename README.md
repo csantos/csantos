@@ -49,26 +49,39 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ### A little more about me...
-
-```javascript
-let csantos = {
-    pronouns: "He" | "Him",
-    code: [".NET", "Javascript", "Python", "Go"],
-    askMeAbout: ["architect", "app dev", "cloud", "tech"],
+<pre>
+ <code>
+  let csantos = {
+    pronouns: "He | Him",
+    code: [ ".NET", "Javascript", "Python", "Go" ],
+    askMeAbout: [ "architecture", "app dev", "cloud", "tech" ],
     technologies: {
-        backEnd: {
-            js: [".NET", "Node", "Kubernetes"],
-        },
-        devOps: ["Azure", "AWS", "GCP", "GitHub", "Docker🐳"],
-        databases: ["MS SQL Server", "Postgres", "DynamoDB"],
-        misc: ["ORMs", "TDD", "BDD", "IoC"]
+        backEnd: [ ".NET", "Node", "Kubernetes", "Docker🐳" ],
+        clouds: [ "GCP", "AWS", "Azure" ],
+        devops: [ "GitHub", "GitLab", "Terraform" ],
+        databases: [ "MS SQL Server", "Postgres", "DynamoDB" ],
+        misc: [ "ORMs", "TDD", "BDD", "IoC" ]
     },
-    architecture: ["Distributed System Design", "Microservices", "SOA", "REST / Hypermedia", "Serverless Architecture", "Single Page Applications", "N-Tier / Layered", "Hexogonal", "TOGAF"],
-    design: ["AOP", "DDD", "OO", "CQRS", "SOLID", "Event Driven / Messaging"],
-    agile: ["Kanban", "Scrum", "SAFe", "XP"],
-    diagramming: ["UML", "ArchiMate"]
+    architecture: [
+       "Distributed System Design", 
+       "Microservices", 
+       "SOA", 
+       "REST / Hypermedia", 
+       "Serverless Architecture", 
+       "Single Page Applications",
+       "N-Tier / Layered",
+       "Hexogonal", 
+       "TOGAF"
+    ],
+    design: [ "AOP", "DDD", "OO", "CQRS", "SOLID", "Event Driven / Messaging" ],
+    agile: [ "Kanban", "Scrum", "SAFe", "XP" ],
+    diagramming: [ "UML", "ArchiMate" ]
+    certs: {
+       credly: <a href="https://www.credly.com/users/santoscarlosr">https://www.credly.com/users/santoscarlosr</a>
+       accredible: <a href="https://www.credential.net/profile/carlosrsantos/wallet">https://www.credential.net/profile/carlosrsantos/wallet</a>
 };
-```
+ </code>
+</pre></div>
 
 ### Latest Posts
 ---
